@@ -1,0 +1,175 @@
+C:\Projects\_Working\_OefeningSol\Liesbet-201608\MVC-Test\vs-project\bin\roslyn\csc.exe
+C:\Projects\_Working\_OefeningSol\Liesbet-201608\MVC-Test\vs-project\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Projects\_Working\_OefeningSol\Liesbet-201608\MVC-Test\vs-project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Projects\_Working\_OefeningSol\Liesbet-201608\MVC-Test\vs-project\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Projects\_Working\_OefeningSol\Liesbet-201608\MVC-Test\vs-project\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Projects\_Working\_OefeningSol\Liesbet-201608\MVC-Test\vs-project\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Projects\_Working\_OefeningSol\Liesbet-201608\MVC-Test\vs-project\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Projects\_Working\_OefeningSol\Liesbet-201608\MVC-Test\vs-project\bin\roslyn\System.Collections.Immutable.dll
+C:\Projects\_Working\_OefeningSol\Liesbet-201608\MVC-Test\vs-project\bin\roslyn\System.Reflection.Metadata.dll
+C:\Projects\_Working\_OefeningSol\Liesbet-201608\MVC-Test\vs-project\bin\roslyn\vbc.exe
+C:\Projects\_Working\_OefeningSol\Liesbet-201608\MVC-Test\vs-project\bin\roslyn\VBCSCompiler.exe
+C:\Projects\_Working\_OefeningSol\Liesbet-201608\MVC-Test\vs-project\bin\roslyn\VBCSCompiler.exe.config
+C:\Projects\_Working\_OefeningSol\Liesbet-201608\MVC-Test\vs-project\bin\vs-project.dll.config
+C:\Projects\_Working\_OefeningSol\Liesbet-201608\MVC-Test\vs-project\bin\vs-project.dll
+C:\Projects\_Working\_OefeningSol\Liesbet-201608\MVC-Test\vs-project\bin\vs-project.pdb
+C:\Projects\_Working\_OefeningSol\Liesbet-201608\MVC-Test\vs-project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Projects\_Working\_OefeningSol\Liesbet-201608\MVC-Test\vs-project\bin\Microsoft.Web.Infrastructure.dll
+C:\Projects\_Working\_OefeningSol\Liesbet-201608\MVC-Test\vs-project\bin\System.Web.Helpers.dll
+C:\Projects\_Working\_OefeningSol\Liesbet-201608\MVC-Test\vs-project\bin\System.Web.Mvc.dll
+C:\Projects\_Working\_OefeningSol\Liesbet-201608\MVC-Test\vs-project\bin\System.Web.Razor.dll
+C:\Projects\_Working\_OefeningSol\Liesbet-201608\MVC-Test\vs-project\bin\System.Web.Webpages.Deployment.dll
+C:\Projects\_Working\_OefeningSol\Liesbet-201608\MVC-Test\vs-project\bin\System.Web.Webpages.dll
+C:\Projects\_Working\_OefeningSol\Liesbet-201608\MVC-Test\vs-project\bin\System.Web.Webpages.Razor.dll
+C:\Projects\_Working\_OefeningSol\Liesbet-201608\MVC-Test\vs-project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Projects\_Working\_OefeningSol\Liesbet-201608\MVC-Test\vs-project\bin\System.Web.Razor.xml
+C:\Projects\_Working\_OefeningSol\Liesbet-201608\MVC-Test\vs-project\bin\System.Web.Webpages.xml
+C:\Projects\_Working\_OefeningSol\Liesbet-201608\MVC-Test\vs-project\bin\System.Web.Webpages.Deployment.xml
+C:\Projects\_Working\_OefeningSol\Liesbet-201608\MVC-Test\vs-project\bin\System.Web.Webpages.Razor.xml
+C:\Projects\_Working\_OefeningSol\Liesbet-201608\MVC-Test\vs-project\bin\System.Web.Helpers.xml
+C:\Projects\_Working\_OefeningSol\Liesbet-201608\MVC-Test\vs-project\bin\System.Web.Mvc.xml
+C:\Projects\_Working\_OefeningSol\Liesbet-201608\MVC-Test\vs-project\obj\Debug\vs-project.csprojResolveAssemblyReference.cache
+C:\Projects\_Working\_OefeningSol\Liesbet-201608\MVC-Test\vs-project\obj\Debug\vs-project.dll
+C:\Projects\_Working\_OefeningSol\Liesbet-201608\MVC-Test\vs-project\obj\Debug\vs-project.pdb
+C:\Projects\_Working\_mgmt\sollicitaties\_OefeningSol\LiesbetJanssens-201608\MVC-Test\vs-project\bin\roslyn\csc.exe
+C:\Projects\_Working\_mgmt\sollicitaties\_OefeningSol\LiesbetJanssens-201608\MVC-Test\vs-project\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Projects\_Working\_mgmt\sollicitaties\_OefeningSol\LiesbetJanssens-201608\MVC-Test\vs-project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Projects\_Working\_mgmt\sollicitaties\_OefeningSol\LiesbetJanssens-201608\MVC-Test\vs-project\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Projects\_Working\_mgmt\sollicitaties\_OefeningSol\LiesbetJanssens-201608\MVC-Test\vs-project\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Projects\_Working\_mgmt\sollicitaties\_OefeningSol\LiesbetJanssens-201608\MVC-Test\vs-project\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Projects\_Working\_mgmt\sollicitaties\_OefeningSol\LiesbetJanssens-201608\MVC-Test\vs-project\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Projects\_Working\_mgmt\sollicitaties\_OefeningSol\LiesbetJanssens-201608\MVC-Test\vs-project\bin\roslyn\System.Collections.Immutable.dll
+C:\Projects\_Working\_mgmt\sollicitaties\_OefeningSol\LiesbetJanssens-201608\MVC-Test\vs-project\bin\roslyn\System.Reflection.Metadata.dll
+C:\Projects\_Working\_mgmt\sollicitaties\_OefeningSol\LiesbetJanssens-201608\MVC-Test\vs-project\bin\roslyn\vbc.exe
+C:\Projects\_Working\_mgmt\sollicitaties\_OefeningSol\LiesbetJanssens-201608\MVC-Test\vs-project\bin\roslyn\VBCSCompiler.exe
+C:\Projects\_Working\_mgmt\sollicitaties\_OefeningSol\LiesbetJanssens-201608\MVC-Test\vs-project\bin\roslyn\VBCSCompiler.exe.config
+C:\Projects\_Working\_mgmt\sollicitaties\_OefeningSol\LiesbetJanssens-201608\MVC-Test\vs-project\bin\vs-project.dll.config
+C:\Projects\_Working\_mgmt\sollicitaties\_OefeningSol\LiesbetJanssens-201608\MVC-Test\vs-project\bin\vs-project.dll
+C:\Projects\_Working\_mgmt\sollicitaties\_OefeningSol\LiesbetJanssens-201608\MVC-Test\vs-project\bin\vs-project.pdb
+C:\Projects\_Working\_mgmt\sollicitaties\_OefeningSol\LiesbetJanssens-201608\MVC-Test\vs-project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Projects\_Working\_mgmt\sollicitaties\_OefeningSol\LiesbetJanssens-201608\MVC-Test\vs-project\bin\Microsoft.Web.Infrastructure.dll
+C:\Projects\_Working\_mgmt\sollicitaties\_OefeningSol\LiesbetJanssens-201608\MVC-Test\vs-project\bin\System.Web.Helpers.dll
+C:\Projects\_Working\_mgmt\sollicitaties\_OefeningSol\LiesbetJanssens-201608\MVC-Test\vs-project\bin\System.Web.Mvc.dll
+C:\Projects\_Working\_mgmt\sollicitaties\_OefeningSol\LiesbetJanssens-201608\MVC-Test\vs-project\bin\System.Web.Razor.dll
+C:\Projects\_Working\_mgmt\sollicitaties\_OefeningSol\LiesbetJanssens-201608\MVC-Test\vs-project\bin\System.Web.Webpages.Deployment.dll
+C:\Projects\_Working\_mgmt\sollicitaties\_OefeningSol\LiesbetJanssens-201608\MVC-Test\vs-project\bin\System.Web.Webpages.dll
+C:\Projects\_Working\_mgmt\sollicitaties\_OefeningSol\LiesbetJanssens-201608\MVC-Test\vs-project\bin\System.Web.Webpages.Razor.dll
+C:\Projects\_Working\_mgmt\sollicitaties\_OefeningSol\LiesbetJanssens-201608\MVC-Test\vs-project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Projects\_Working\_mgmt\sollicitaties\_OefeningSol\LiesbetJanssens-201608\MVC-Test\vs-project\bin\System.Web.Razor.xml
+C:\Projects\_Working\_mgmt\sollicitaties\_OefeningSol\LiesbetJanssens-201608\MVC-Test\vs-project\bin\System.Web.Webpages.xml
+C:\Projects\_Working\_mgmt\sollicitaties\_OefeningSol\LiesbetJanssens-201608\MVC-Test\vs-project\bin\System.Web.Webpages.Deployment.xml
+C:\Projects\_Working\_mgmt\sollicitaties\_OefeningSol\LiesbetJanssens-201608\MVC-Test\vs-project\bin\System.Web.Webpages.Razor.xml
+C:\Projects\_Working\_mgmt\sollicitaties\_OefeningSol\LiesbetJanssens-201608\MVC-Test\vs-project\bin\System.Web.Helpers.xml
+C:\Projects\_Working\_mgmt\sollicitaties\_OefeningSol\LiesbetJanssens-201608\MVC-Test\vs-project\bin\System.Web.Mvc.xml
+C:\Projects\_Working\_mgmt\sollicitaties\_OefeningSol\LiesbetJanssens-201608\MVC-Test\vs-project\obj\Debug\vs-project.csprojResolveAssemblyReference.cache
+C:\Projects\_Working\_mgmt\sollicitaties\_OefeningSol\LiesbetJanssens-201608\MVC-Test\vs-project\obj\Debug\vs-project.csproj.CoreCompileInputs.cache
+C:\Projects\_Working\_mgmt\sollicitaties\_OefeningSol\LiesbetJanssens-201608\MVC-Test\vs-project\obj\Debug\vs-project.dll
+C:\Projects\_Working\_mgmt\sollicitaties\_OefeningSol\LiesbetJanssens-201608\MVC-Test\vs-project\obj\Debug\vs-project.pdb
+C:\Projects\_Working\_mgmt\sollicitaties\_OefeningSol\KurtVandenBranden\MVC-Test\vs-project\bin\roslyn\csc.exe
+C:\Projects\_Working\_mgmt\sollicitaties\_OefeningSol\KurtVandenBranden\MVC-Test\vs-project\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Projects\_Working\_mgmt\sollicitaties\_OefeningSol\KurtVandenBranden\MVC-Test\vs-project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Projects\_Working\_mgmt\sollicitaties\_OefeningSol\KurtVandenBranden\MVC-Test\vs-project\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Projects\_Working\_mgmt\sollicitaties\_OefeningSol\KurtVandenBranden\MVC-Test\vs-project\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Projects\_Working\_mgmt\sollicitaties\_OefeningSol\KurtVandenBranden\MVC-Test\vs-project\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Projects\_Working\_mgmt\sollicitaties\_OefeningSol\KurtVandenBranden\MVC-Test\vs-project\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Projects\_Working\_mgmt\sollicitaties\_OefeningSol\KurtVandenBranden\MVC-Test\vs-project\bin\roslyn\System.Collections.Immutable.dll
+C:\Projects\_Working\_mgmt\sollicitaties\_OefeningSol\KurtVandenBranden\MVC-Test\vs-project\bin\roslyn\System.Reflection.Metadata.dll
+C:\Projects\_Working\_mgmt\sollicitaties\_OefeningSol\KurtVandenBranden\MVC-Test\vs-project\bin\roslyn\vbc.exe
+C:\Projects\_Working\_mgmt\sollicitaties\_OefeningSol\KurtVandenBranden\MVC-Test\vs-project\bin\roslyn\VBCSCompiler.exe
+C:\Projects\_Working\_mgmt\sollicitaties\_OefeningSol\KurtVandenBranden\MVC-Test\vs-project\bin\roslyn\VBCSCompiler.exe.config
+C:\Projects\_Working\_mgmt\sollicitaties\_OefeningSol\KurtVandenBranden\MVC-Test\vs-project\bin\vs-project.dll.config
+C:\Projects\_Working\_mgmt\sollicitaties\_OefeningSol\KurtVandenBranden\MVC-Test\vs-project\bin\vs-project.dll
+C:\Projects\_Working\_mgmt\sollicitaties\_OefeningSol\KurtVandenBranden\MVC-Test\vs-project\bin\vs-project.pdb
+C:\Projects\_Working\_mgmt\sollicitaties\_OefeningSol\KurtVandenBranden\MVC-Test\vs-project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Projects\_Working\_mgmt\sollicitaties\_OefeningSol\KurtVandenBranden\MVC-Test\vs-project\bin\Microsoft.Web.Infrastructure.dll
+C:\Projects\_Working\_mgmt\sollicitaties\_OefeningSol\KurtVandenBranden\MVC-Test\vs-project\bin\System.Web.Helpers.dll
+C:\Projects\_Working\_mgmt\sollicitaties\_OefeningSol\KurtVandenBranden\MVC-Test\vs-project\bin\System.Web.Mvc.dll
+C:\Projects\_Working\_mgmt\sollicitaties\_OefeningSol\KurtVandenBranden\MVC-Test\vs-project\bin\System.Web.Razor.dll
+C:\Projects\_Working\_mgmt\sollicitaties\_OefeningSol\KurtVandenBranden\MVC-Test\vs-project\bin\System.Web.Webpages.Deployment.dll
+C:\Projects\_Working\_mgmt\sollicitaties\_OefeningSol\KurtVandenBranden\MVC-Test\vs-project\bin\System.Web.Webpages.dll
+C:\Projects\_Working\_mgmt\sollicitaties\_OefeningSol\KurtVandenBranden\MVC-Test\vs-project\bin\System.Web.Webpages.Razor.dll
+C:\Projects\_Working\_mgmt\sollicitaties\_OefeningSol\KurtVandenBranden\MVC-Test\vs-project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Projects\_Working\_mgmt\sollicitaties\_OefeningSol\KurtVandenBranden\MVC-Test\vs-project\bin\System.Web.Razor.xml
+C:\Projects\_Working\_mgmt\sollicitaties\_OefeningSol\KurtVandenBranden\MVC-Test\vs-project\bin\System.Web.Webpages.xml
+C:\Projects\_Working\_mgmt\sollicitaties\_OefeningSol\KurtVandenBranden\MVC-Test\vs-project\bin\System.Web.Webpages.Deployment.xml
+C:\Projects\_Working\_mgmt\sollicitaties\_OefeningSol\KurtVandenBranden\MVC-Test\vs-project\bin\System.Web.Webpages.Razor.xml
+C:\Projects\_Working\_mgmt\sollicitaties\_OefeningSol\KurtVandenBranden\MVC-Test\vs-project\bin\System.Web.Helpers.xml
+C:\Projects\_Working\_mgmt\sollicitaties\_OefeningSol\KurtVandenBranden\MVC-Test\vs-project\bin\System.Web.Mvc.xml
+C:\Projects\_Working\_mgmt\sollicitaties\_OefeningSol\KurtVandenBranden\MVC-Test\vs-project\obj\Debug\vs-project.csprojResolveAssemblyReference.cache
+C:\Projects\_Working\_mgmt\sollicitaties\_OefeningSol\KurtVandenBranden\MVC-Test\vs-project\obj\Debug\vs-project.csproj.CoreCompileInputs.cache
+C:\Projects\_Working\_mgmt\sollicitaties\_OefeningSol\KurtVandenBranden\MVC-Test\vs-project\obj\Debug\vs-project.dll
+C:\Projects\_Working\_mgmt\sollicitaties\_OefeningSol\KurtVandenBranden\MVC-Test\vs-project\obj\Debug\vs-project.pdb
+D:\Workdir\MVC-Test\vs-project\bin\roslyn\csc.exe
+D:\Workdir\MVC-Test\vs-project\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Workdir\MVC-Test\vs-project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Workdir\MVC-Test\vs-project\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Workdir\MVC-Test\vs-project\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Workdir\MVC-Test\vs-project\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Workdir\MVC-Test\vs-project\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Workdir\MVC-Test\vs-project\bin\roslyn\System.Collections.Immutable.dll
+D:\Workdir\MVC-Test\vs-project\bin\roslyn\System.Reflection.Metadata.dll
+D:\Workdir\MVC-Test\vs-project\bin\roslyn\vbc.exe
+D:\Workdir\MVC-Test\vs-project\bin\roslyn\VBCSCompiler.exe
+D:\Workdir\MVC-Test\vs-project\bin\roslyn\VBCSCompiler.exe.config
+D:\Workdir\MVC-Test\vs-project\bin\vs-project.dll.config
+D:\Workdir\MVC-Test\vs-project\bin\vs-project.dll
+D:\Workdir\MVC-Test\vs-project\bin\vs-project.pdb
+D:\Workdir\MVC-Test\vs-project\bin\EntityFramework.dll
+D:\Workdir\MVC-Test\vs-project\bin\EntityFramework.SqlServer.dll
+D:\Workdir\MVC-Test\vs-project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Workdir\MVC-Test\vs-project\bin\Microsoft.Web.Infrastructure.dll
+D:\Workdir\MVC-Test\vs-project\bin\System.Web.Helpers.dll
+D:\Workdir\MVC-Test\vs-project\bin\System.Web.Mvc.dll
+D:\Workdir\MVC-Test\vs-project\bin\System.Web.Razor.dll
+D:\Workdir\MVC-Test\vs-project\bin\System.Web.Webpages.Deployment.dll
+D:\Workdir\MVC-Test\vs-project\bin\System.Web.Webpages.dll
+D:\Workdir\MVC-Test\vs-project\bin\System.Web.Webpages.Razor.dll
+D:\Workdir\MVC-Test\vs-project\bin\EntityFramework.xml
+D:\Workdir\MVC-Test\vs-project\bin\EntityFramework.SqlServer.xml
+D:\Workdir\MVC-Test\vs-project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Workdir\MVC-Test\vs-project\bin\System.Web.Razor.xml
+D:\Workdir\MVC-Test\vs-project\bin\System.Web.Webpages.xml
+D:\Workdir\MVC-Test\vs-project\bin\System.Web.Webpages.Deployment.xml
+D:\Workdir\MVC-Test\vs-project\bin\System.Web.Webpages.Razor.xml
+D:\Workdir\MVC-Test\vs-project\bin\System.Web.Helpers.xml
+D:\Workdir\MVC-Test\vs-project\bin\System.Web.Mvc.xml
+D:\Workdir\MVC-Test\vs-project\obj\Debug\vs-project.csproj.CoreCompileInputs.cache
+D:\Workdir\MVC-Test\vs-project\obj\Debug\vs-project.dll
+D:\Workdir\MVC-Test\vs-project\obj\Debug\vs-project.pdb
+D:\Workdir\MVC-Test\vs-project\obj\Debug\vs-project.csprojResolveAssemblyReference.cache
+D:\Workdir\Treasure Island\vs-project\bin\roslyn\csc.exe
+D:\Workdir\Treasure Island\vs-project\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Workdir\Treasure Island\vs-project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Workdir\Treasure Island\vs-project\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Workdir\Treasure Island\vs-project\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Workdir\Treasure Island\vs-project\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Workdir\Treasure Island\vs-project\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Workdir\Treasure Island\vs-project\bin\roslyn\System.Collections.Immutable.dll
+D:\Workdir\Treasure Island\vs-project\bin\roslyn\System.Reflection.Metadata.dll
+D:\Workdir\Treasure Island\vs-project\bin\roslyn\vbc.exe
+D:\Workdir\Treasure Island\vs-project\bin\roslyn\VBCSCompiler.exe
+D:\Workdir\Treasure Island\vs-project\bin\roslyn\VBCSCompiler.exe.config
+D:\Workdir\Treasure Island\vs-project\bin\vs-project.dll
+D:\Workdir\Treasure Island\vs-project\bin\vs-project.pdb
+D:\Workdir\Treasure Island\vs-project\bin\EntityFramework.dll
+D:\Workdir\Treasure Island\vs-project\bin\EntityFramework.SqlServer.dll
+D:\Workdir\Treasure Island\vs-project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Workdir\Treasure Island\vs-project\bin\Microsoft.Web.Infrastructure.dll
+D:\Workdir\Treasure Island\vs-project\bin\System.Web.Helpers.dll
+D:\Workdir\Treasure Island\vs-project\bin\System.Web.Mvc.dll
+D:\Workdir\Treasure Island\vs-project\bin\System.Web.Razor.dll
+D:\Workdir\Treasure Island\vs-project\bin\System.Web.Webpages.Deployment.dll
+D:\Workdir\Treasure Island\vs-project\bin\System.Web.Webpages.dll
+D:\Workdir\Treasure Island\vs-project\bin\System.Web.Webpages.Razor.dll
+D:\Workdir\Treasure Island\vs-project\bin\EntityFramework.xml
+D:\Workdir\Treasure Island\vs-project\bin\EntityFramework.SqlServer.xml
+D:\Workdir\Treasure Island\vs-project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Workdir\Treasure Island\vs-project\bin\System.Web.Razor.xml
+D:\Workdir\Treasure Island\vs-project\bin\System.Web.Webpages.xml
+D:\Workdir\Treasure Island\vs-project\bin\System.Web.Webpages.Deployment.xml
+D:\Workdir\Treasure Island\vs-project\bin\System.Web.Webpages.Razor.xml
+D:\Workdir\Treasure Island\vs-project\bin\System.Web.Helpers.xml
+D:\Workdir\Treasure Island\vs-project\bin\System.Web.Mvc.xml
+D:\Workdir\Treasure Island\vs-project\obj\Debug\vs-project.csproj.CoreCompileInputs.cache
+D:\Workdir\Treasure Island\vs-project\obj\Debug\vs-project.dll
+D:\Workdir\Treasure Island\vs-project\obj\Debug\vs-project.pdb

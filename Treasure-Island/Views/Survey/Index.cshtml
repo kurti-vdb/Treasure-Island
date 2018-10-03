@@ -1,0 +1,161 @@
+﻿@*@model vs_project.Models.Survey*@
+@model IEnumerable<vs_project.Models.Question>
+@{
+    ViewBag.Title = "Brand - win een fabelachtig weekend in Disneyland Parijs";
+}
+
+<form action="Users/Index" id="wedstrijdform">
+    <div id="main">
+        <div class="inner">
+            <div class="blad1"></div>
+            <div class="blad3"></div>
+            <a href="#" id="logo">Brand - mijn slogan</a>
+            <div class="content">
+                <h1 class="title-1">Win een fabelachtig weekend in Disneyland Parijs</h1>
+                <div id="game-page1">
+                    <h2 class="title-6">Leuk dat je meedoet! Alle hens aan dek en hijs de zeilen.</h2>
+                    <p class="intro">Herken je een van deze helden of piraten?</p>
+                    <div class="alert alert-danger" style="display: none;">Gelieve alle vragen in te vullen.</div>
+                    <div class="content-medium">
+                        <div class="row">
+                            
+                                @foreach (var item in Model)
+                                {
+                                    <div class="col-sm-4">
+                                        
+                                        <div id="@String.Concat("question", item.ID)">
+                                            <div class="form-group">
+                                                @foreach (var answer in item.Answers)
+                                                {
+                                                    <div class="radio"><label><input type="radio" name="@String.Concat("question", item.ID)" id="@String.Concat("question", item.ID, "-a", item.ID)" value="@String.Concat("a", item.ID)" required> @answer.Text</label></div>
+                                                }
+                                            </div>
+                                        </div>
+                                    </div>
+                                }
+
+                        </div>
+                        <p><a href="#" class="btn btn-red btn-lg">Volgende</a></p>
+                    </div>
+                </div>
+                <div id="game-page2">
+                    <div class="content-small">
+                        <h2 class="title-6">Rarara ... Een schiftingsvraag om het spannend te houden.</h2>
+                        <div class="alert alert-danger" style="display: none;">Gelieve de schiftingsvraag in te vullen.</div>
+                        <p class="intro">Hoeveel unieke deelnemers zullen we tellen na afloop van deze wedstrijd (die loopt van 01/03/2016 t.e.m. 01/03/2016)?</p>
+                        <div class="form-group form-group-lg">
+                            <input type="number" class="form-control" name="schiftingsvraag" value="" required>
+                        </div>
+                        <p><a href="#" class="btn btn-red btn-lg">Volgende</a></p>
+                    </div>
+                </div>
+                <div id="game-page3">
+                    <h2 class="title-6">We zijn er bijna! Laat je gegevens achter zodat we je kunnen contacteren.</h2>
+                    <div class="content-small">
+                        <div class="alert alert-danger" style="display: none;">Gelieve je gegevens te vervolledigen.</div>
+                        <div class="form-group form-group-lg">
+                            <p class="control-label">Aanspreking</p>
+
+                            @foreach (var item in ViewBag.Titles)
+                            {
+                                <label class="radio-inline"><input type="radio" name="aanspreking" id="aanspreking2" value="@item.Name"> @item.Name</label>
+                            }
+
+                            <!--
+                            <label class="radio-inline"><input type="radio" name="aanspreking" id="aanspreking2" value="Mevrouw"> Mevrouw</label>
+                            <label class="radio-inline"><input type="radio" name="aanspreking" id="aanspreking3" value="Meneer"> Meneer </label>
+                             -->
+                        </div>
+                        <div class="form-group form-group-lg">
+                            <label for="voornaam" class="sr-only">Voornaam</label>
+                            <input type="text" class="form-control" value="" placeholder="Voornaam" id="voornaam" name="voornaam" required>
+                        </div>
+                        <div class="form-group form-group-lg">
+                            <label for="naam" class="sr-only">Naam</label>
+                            <input type="text" class="form-control" value="" placeholder="Naam" id="naam" name="naam" required>
+                        </div>
+                        <div class="form-group form-group-lg">
+                            <label for="email" class="sr-only">E-mailadres</label>
+                            <input type="email" class="form-control" value="" placeholder="E-mailadres" id="email" name="email" required>
+                        </div>
+                        <div class="form-group form-group-lg">
+                            <label for="winkel" class="control-label">Wat is je favoriete winkel?</label>
+                            <select id="winkel" name="winkel" class="form-control">
+                                <option value="">maak je keuze</option>
+                                
+                                @foreach (var item in ViewBag.Stores)
+                                {
+                                    <option value="@item.Name">@item.Name</option>
+                                }                               
+                               
+                                <!--
+                                <option value="">.be</option>
+                                <option value="">Antwerpen</option>
+                                <option value="">Mechelen</option>
+                                    -->
+
+                            </select>
+                        </div>
+                        <div class="form-group form-group-lg">
+                            <div class="checkbox"><label><input type="checkbox" name="efteling"> Ja, ik wil op de hoogte blijven van het laatste nieuws bij Disneyland Parijs.</label></div>
+                        </div>
+                        <div class="form-group form-group-lg">
+                            <div class="checkbox"><label><input type="checkbox" name="voorwaarden" required> Ja, ik heb het wedstrijdreglement gelezen en aanvaard de voorwaarden.</label></div>
+                        </div>
+                        <p class="center"><button type="submit" id="submitsurvey"class="btn btn-red btn-lg">Verzenden</button></p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="paddestoel"></div>
+        <div class="schoen"></div>
+    </div>
+    <footer>
+        &copy; 2016 <a href="#">Brand</a>  |  <a href="#">Disneyland Parijs</a>  |  <a href="#">Wedstrijdreglement</a>  |  <a href="#">Contact</a>
+    </footer>
+</form>
+
+<script>
+
+    $.ajax({
+        url: "https://geoip-db.com/jsonp",
+        jsonpCallback: "callback",
+        dataType: "jsonp",
+        success: function (location) {
+
+            if (location.city !== null)
+                $('#winkel').append('<option value="' + location.city +'" selected="selected">Brand ' + location.city +'</option>');
+        }
+    });	
+
+
+    $("#submitsurvey").click(function () {
+
+        var form = JSON.stringify($('#wedstrijdform').serializeArray());
+        var formdata = JSON.parse(form);
+
+        var user = {
+            title: formdata[4].value,
+            FirstName: formdata[5].value,
+            LastName: formdata[6].value,
+            Email: formdata[7].value,
+            Store: formdata[8].value,
+            KeepMeInformed: formdata[9].value,
+            Agreed: formdata[9].value,
+            Answer: formdata[0].value + "|" + formdata[1].value + "|" + formdata[2].value + "|" + formdata[3].value
+        }
+
+        $.ajax({
+            url: '/Users/Add',
+            type: 'post',
+            dataType: 'json',
+            success: function (data) {
+                console.log(data.msg);
+            },
+            data: user
+        });
+    });
+
+     
+
+</script>
