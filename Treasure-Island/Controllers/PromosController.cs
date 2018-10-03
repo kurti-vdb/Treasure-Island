@@ -29,10 +29,8 @@ namespace vs_project.Controllers
             else
             {
                 Session["ID"] = Code;
-
                 return RedirectToAction("Index", "Survey");
-            }
-                
+            }      
         }
 
         public ActionResult ValidateCode(string Code)

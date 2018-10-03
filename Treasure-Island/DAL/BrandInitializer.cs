@@ -64,7 +64,7 @@ namespace vs_project.DAL
                     Answers = new List<Answer>
                     {
                         new Answer { Text = "Angelica Teach", QuestionID = 2 },
-                        new Answer { Text = "Anamaria", QuestionID = 2 },
+                        new Answer { Text = "Anamaria III", QuestionID = 2 },
                         new Answer { Text = "Elisabeth Swann", QuestionID = 2 }
                     }
                 },
